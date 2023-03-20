@@ -4,8 +4,7 @@
 <br />
 <p align="center">
   
-  <a href="https://github.com/Dajayi1/Understanding-Factors-Influencing-Health-insurance-cost-using-MLR-Regression-and-Decision-Trees
-  ">
+  <a href="https://github.com/Dajayi1/Understanding-Factors-Influencing-Health-insurance-cost-using-MLR-Regression-and-Decision-Trees">
     <img src="heart attack.jpeg" alt="Logo", width = 800 >
   </a>
   
